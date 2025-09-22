@@ -13,3 +13,17 @@ When disasters strike, emergency managers and humanitarian analysts must act qui
 
 ### Method and Description
 https://medium.com/@chandrasekhar.aish/incidentsense-ai-powered-disaster-intelligence-in-bigquery-646d0a316a01
+
+### Execution
+    Run IncidentSense.ipynb or IncidentSense_BQ_Notebook_version.ipynb 
+    in Google BigQuery Studio Notebook.
+
+OR
+
+    python3 incidentsense.py
+
+
+    Dependencies:
+                1. pip install -r requirements.txt
+                2. IncidentSense_queries.py
+                3. IncidentSense_helper.py
